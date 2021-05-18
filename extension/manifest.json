@@ -1,0 +1,27 @@
+{
+  "name": "Today in History?",
+   "author": "Ayush Kumar",
+  "version": "1.1",
+  "description": "On This Day In History! What Happened Today In History?",
+  "icons": { "128": "facts_icon.png" },
+    
+    "background": {
+    "persistent": true,
+    "scripts": ["jquery.js","fact.js","script.js"]
+  },
+  "browser_action": {
+    "default_title": "Today in History?",
+    "default_icon": "facts_action.png",
+    "default_popup": "popup.html"
+  },
+    
+  "permissions": [
+     "webRequestBlocking",
+     "webRequest",
+     "activeTab",
+     "tabs",
+     "http://*/*",
+     "https://*/*"
+  ],
+  "manifest_version": 2
+}
