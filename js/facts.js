@@ -27,7 +27,7 @@ function newFact()
         $('#quoteDisplay').html('Hang On! We\'re searching for you.');
          $("#quoteDisplay").append("<br><i class=\"fas fa-spinner fa-spin loader\"></i>");
         $.ajax({
-	url: 'http://numbersapi.com/10/19/date',
+	url: 'http://numbersapi.com/05/18/date',
 	type: 'GET',
 	success: function(data){
 		console.log(data);
