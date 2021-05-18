@@ -1,0 +1,82 @@
+/*
+Author - Ayush Kumar
+Today in History? - Chrome Extension
+*/
+@import url('https://fonts.googleapis.com/css?family=Cookie');
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates');
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Kodchasan:700');
+body {
+  background-color: #9edbca;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.theBlockquote {
+  font-size:26px;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+#quote_title {
+  font-size:1.5em;
+  font-family: 'Poppins', sans-serif;
+  opacity: 0.8;
+}
+#quote_title span{
+    font-family: 'Kodchasan', sans-serif;
+    font-size:1.8em;
+    opacity: 0.4;
+}
+a{
+    color: #ee6e73;
+    text-decoration: none;
+    font-weight: bolder;
+    -webkit-transition-delay: 5s; /* Safari */
+    transition-delay: 5s;
+}
+
+a:hover{
+    font-weight: bold;
+    text-decoration: underline;
+    border-bottom-left-radius: 2px solid #ee6e73;
+    text-decoration-color: #ee6e73;
+    -webkit-transition-delay: 5s; /* Safari */
+    transition-delay: 5s;
+}
+
+h5{
+    color: #546e7a;
+    font-family: 'Cookie', cursive;
+}
+
+h5 span{
+    opacity: 1.0;
+    color: #ee6e73;
+}
+.fa-heart{
+    color: #ee6e73;
+    font-family: 'Cookie', cursive;
+    font-style: italic;
+}
+.fa-spinner{
+    font-size: 30px;
+}
+.whatsapp{
+    background-color: #25d366;
+}
+.green{
+    background-color: #25d366;
+}
+.datetime{
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 0.5px;
+    opacity: 0.3;
+}
+.more{
+    font-family: 'Raleway', sans-serif;
+}
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  .theBlockquote {
+  font-size:18px;
+} 
+}
