@@ -1,6 +1,6 @@
 /*
 Author - Ayush Kumar
-Today in History?
+Etihaas
 CHROME EXTENSION
 */
 var quote = "";
