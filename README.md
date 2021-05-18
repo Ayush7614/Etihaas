@@ -35,8 +35,8 @@ Note - The '**extension**' folder contains all the necessary files for chrome ex
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/vinitshahdeo/TodayInHistory/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Ayush7614/Etihaas/blob/master/LICENSE) file for details
 
-#### Check demo [here](http://vinitshahdeo.com/projects/TodayInHistory/).
+#### Check demo [here](https://github.com/Ayush7614/Etihaas).
 
-[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo) [![Powered by Water](https://forthebadge.com/images/badges/powered-by-water.svg)](https://github.com/vinitshahdeo) [![SMILE](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/vinitshahdeo)
+[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Ayush7614) [![Powered by Water](https://forthebadge.com/images/badges/powered-by-water.svg)](https://github.com/Ayush7614) [![SMILE](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/Ayush7614)
