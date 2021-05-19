@@ -19,7 +19,7 @@ Note - The '**extension**' folder contains all the necessary files for chrome ex
 
 ## Built With
 
-[![HTML](https://forthebadge.com/images/badges/uses-html.svg)](https://github.com/Ayush7614/Etihaas) [![css](https://forthebadge.com/images/badges/uses-css.svg)](https://github.com/vinitshahdeo/TodayInHistory/) [![JS](https://forthebadge.com/images/badges/uses-js.svg)](https://github.com/Ayush7614)
+[![HTML](https://forthebadge.com/images/badges/uses-html.svg)](https://github.com/Ayush7614/Etihaas) [![css](https://forthebadge.com/images/badges/uses-css.svg)](https://github.com/Ayush7614/Etihaas) [![JS](https://forthebadge.com/images/badges/uses-js.svg)](https://github.com/Ayush7614)
 
 * [NumbersAPI](http://numberapi.com/) - Numbers API
 
